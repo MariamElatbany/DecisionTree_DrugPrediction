@@ -15,7 +15,7 @@ We aim to predict the recommended drug based on patient health parameters using 
 - Evaluate the model performance using **accuracy**
 
 ## Technologies & Libraries
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
+pandas – for data manipulation and working with DataFrames
+numpy – for numerical computations and arrays
+matplotlib – for data visualization and plotting the tree
+scikit-learn – for building the Decision Tree model and evaluating it (Accuracy)
