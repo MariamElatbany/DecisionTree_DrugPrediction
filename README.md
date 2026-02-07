@@ -22,3 +22,4 @@ We aim to predict the recommended drug based on patient health parameters using 
 -matplotlib – for data visualization and plotting the tree
 
 -scikit-learn – for building the Decision Tree model and evaluating it (Accuracy)
+
