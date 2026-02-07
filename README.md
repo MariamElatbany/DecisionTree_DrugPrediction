@@ -1,25 +1,21 @@
-# DecisionTree_DrugPrediction
+# 🌳 DecisionTree_DrugPrediction
 
-## Project Overview
-This project explores **Decision Tree classification**, a powerful machine learning technique for making data-driven decisions. 
+## 📝 Project Overview
+This project explores **Decision Tree classification**, a powerful machine learning technique for making data-driven decisions.  
 We aim to predict the recommended drug based on patient health parameters using a real-world dataset.
 
-## Dataset
-- The dataset contains patient health features and the corresponding drug recommended.
-- Features include: Age, Sex, Blood Pressure, Cholesterol, NaN values handled, etc.
+## 📊 Dataset
+- The dataset contains patient health features and the corresponding drug recommended.  
+- Features include: Age, Sex, Blood Pressure, Cholesterol, NaN values handled, etc.  
 - Target variable: `Drug` (encoded as `Drug_num` for modeling).
 
-## Objectives
-- Develop a classification model using the **Decision Tree algorithm**.
-- Visualize the tree to understand decision criteria.
-- Evaluate the model performance using **accuracy**
+## 🎯 Objectives
+- Develop a classification model using the **Decision Tree algorithm**.  
+- Visualize the tree to understand decision criteria.  
+- Evaluate the model performance using **accuracy**.
 
-## Technologies & Libraries
--pandas – for data manipulation and working with DataFrames
-
--numpy – for numerical computations and arrays
-
--matplotlib – for data visualization and plotting the tree
-
--scikit-learn – for building the Decision Tree model and evaluating it (Accuracy)
-
+## 🛠️ Technologies & Libraries
+- **🐼 pandas** – for data manipulation and working with DataFrames  
+- **🔢 numpy** – for numerical computations and arrays  
+- **📊 matplotlib** – for data visualization and plotting the tree  
+- **🤖 scikit-learn** – for building the Decision Tree model and evaluating it (Accuracy)  
